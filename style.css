@@ -1,0 +1,157 @@
+body{
+    background-color: lightgray;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.page-heading{
+    background-color: #272780;
+    height: 300px;
+    text-align: center;
+}
+
+.container1{
+
+    margin-top: -10px;
+    margin-right: 100px;
+    margin-left: 80px;
+    height: 1070px;
+}
+
+.container2{
+    margin-right: 100px;
+    margin-left: 80px;
+}
+
+.page-banner {
+
+    width: 40%;
+    height: 35%;
+    background: rgba(39, 39, 128, 0.8);
+    opacity: 0.9;
+    margin-left: 28%;
+    padding: 40px 40px;
+    color: white;
+    font-size: 14px;
+}
+
+.page-header-image{
+    margin: 90px 70px;
+}
+
+.page-content{
+    background-image: url("images/banner.png");
+    height: 1070px;
+}
+
+h3{
+    font-size: 24px;
+}
+
+h4{
+    font-size: 22px;
+    color: orangered;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.content{
+    margin-top: -20px;
+    background-color: white;
+    margin-right: 100px;
+    margin-left: 80px;
+}
+
+.introduction{
+    background-color: #f05a28;
+    color: white;
+    font-size: 20px;
+    height: 480px;
+}
+
+.introduction-text{
+    font-family: 'Open Sans', sans-serif;
+    width: 65%;
+    text-align: left;
+    font-size: 20px;
+    margin: -255px 0 0 340px;
+    line-height: 30px;
+}
+
+.coderetreat{
+    margin: 120px 0 0 125px;
+    width: 40px;
+    height: 221px;
+}
+
+table{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: #333;
+    width: 95%;
+}
+
+table, tr, td{
+    border: 1px solid darkgray;
+    border-collapse: collapse;
+    padding: 2px;
+    line-height: 25px;
+}
+
+.first-col{
+    width: 35%;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.table-heading{
+    background-color: #cfe2f3;
+    font-weight: bold;
+}
+
+tbody{
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+/*.page-banner{*/
+    /*background-image: url("images/banner.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+/*}*/
+
+.notication{
+    font-family: Arial;
+    margin-top: 14px;
+    font-size: 22px;
+    font-style: italic;
+}
+
+.facilitator{
+    background-color: #272780;
+    color: #FFFFFF;
+    width: 19%;
+    height: 280px;
+    /*position: absolute;*/
+    margin: 0 0 -165px 105px;
+    text-align: center;
+
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #449d44;
+}
